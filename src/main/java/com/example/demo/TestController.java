@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 	@GetMapping("/")
 	public String test() {
-		return "업데이트";
+		return "새로운 버전 oo기능추가!!";
 	}
 }
