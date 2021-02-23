@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 	@GetMapping("/")
 	public String test() {
-		return "02.08 업데이트";
+		return "02.23 업데이트...";
 	}
 }
